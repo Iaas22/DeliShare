@@ -1,5 +1,5 @@
 
-# DeliShare 🍽️  
+# DeliShare 
 
 
 **Red social para compartir recetas de cocina**  
@@ -29,9 +29,9 @@
 [Prototipo en Penpot](https://design.penpot.app/#/view/96c4bd8e-df43-800f-8005-9d539a93bab0?page-id=96c4bd8e-df43-800f-8005-9d539a93bab1&section=interactions&index=0&share-id=790b4dba-cade-8121-8005-9d6d348cdc72)  
 [Sitio en producción](https://delishare.cat)  
 
-📧 **Contacto**:  
+**Contacto**:  
 administracion@delishare.cat
 
 
 
-*¡Únete a nuestra comunidad culinaria!* 👨‍🍳👩‍🍳
+*¡Únete a nuestra comunidad culinaria!* 
